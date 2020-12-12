@@ -57,6 +57,10 @@ Go [here](https://github.com/llendway/github_for_collaboration/blob/master/githu
 
 Once your repository is created, you should always open your **project** rather than just opening an .Rmd file. You can do that by either clicking on the .Rproj file in your repository folder on your computer. Or, by going to the upper right hand corner in R Studio and clicking the arrow next to where it says Project: (None). You should see your project come up in that list if you've used it recently. You could also go to File --> Open Project and navigate to your .Rproj file. 
 
+# Github link
+
+https://github.com/charlietran01/06_weeklyassignment
+
 ## Instructions
 
 * Put your name at the top of the document. 

@@ -56,6 +56,10 @@ Go [here](https://github.com/llendway/github_for_collaboration/blob/master/githu
 
 Once your repository is created, you should always open your **project** rather than just opening an .Rmd file. You can do that by either clicking on the .Rproj file in your repository folder on your computer. Or, by going to the upper right hand corner in R Studio and clicking the arrow next to where it says Project: (None). You should see your project come up in that list if you've used it recently. You could also go to File --> Open Project and navigate to your .Rproj file. 
 
+# Github link
+
+https://github.com/charlietran01/06_weeklyassignment
+
 ## Instructions
 
 * Put your name at the top of the document. 
@@ -168,7 +172,7 @@ gt(garden_table)
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#qwkiwpgvbe .gt_table {
+#ejwlmawohf .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -193,7 +197,7 @@ gt(garden_table)
   border-left-color: #D3D3D3;
 }
 
-#qwkiwpgvbe .gt_heading {
+#ejwlmawohf .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -205,7 +209,7 @@ gt(garden_table)
   border-right-color: #D3D3D3;
 }
 
-#qwkiwpgvbe .gt_title {
+#ejwlmawohf .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -215,7 +219,7 @@ gt(garden_table)
   border-bottom-width: 0;
 }
 
-#qwkiwpgvbe .gt_subtitle {
+#ejwlmawohf .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -225,13 +229,13 @@ gt(garden_table)
   border-top-width: 0;
 }
 
-#qwkiwpgvbe .gt_bottom_border {
+#ejwlmawohf .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#qwkiwpgvbe .gt_col_headings {
+#ejwlmawohf .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -246,7 +250,7 @@ gt(garden_table)
   border-right-color: #D3D3D3;
 }
 
-#qwkiwpgvbe .gt_col_heading {
+#ejwlmawohf .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -266,7 +270,7 @@ gt(garden_table)
   overflow-x: hidden;
 }
 
-#qwkiwpgvbe .gt_column_spanner_outer {
+#ejwlmawohf .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -278,15 +282,15 @@ gt(garden_table)
   padding-right: 4px;
 }
 
-#qwkiwpgvbe .gt_column_spanner_outer:first-child {
+#ejwlmawohf .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#qwkiwpgvbe .gt_column_spanner_outer:last-child {
+#ejwlmawohf .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#qwkiwpgvbe .gt_column_spanner {
+#ejwlmawohf .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -298,7 +302,7 @@ gt(garden_table)
   width: 100%;
 }
 
-#qwkiwpgvbe .gt_group_heading {
+#ejwlmawohf .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -320,7 +324,7 @@ gt(garden_table)
   vertical-align: middle;
 }
 
-#qwkiwpgvbe .gt_empty_group_heading {
+#ejwlmawohf .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -335,15 +339,15 @@ gt(garden_table)
   vertical-align: middle;
 }
 
-#qwkiwpgvbe .gt_from_md > :first-child {
+#ejwlmawohf .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#qwkiwpgvbe .gt_from_md > :last-child {
+#ejwlmawohf .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#qwkiwpgvbe .gt_row {
+#ejwlmawohf .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -362,7 +366,7 @@ gt(garden_table)
   overflow-x: hidden;
 }
 
-#qwkiwpgvbe .gt_stub {
+#ejwlmawohf .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -374,7 +378,7 @@ gt(garden_table)
   padding-left: 12px;
 }
 
-#qwkiwpgvbe .gt_summary_row {
+#ejwlmawohf .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -384,7 +388,7 @@ gt(garden_table)
   padding-right: 5px;
 }
 
-#qwkiwpgvbe .gt_first_summary_row {
+#ejwlmawohf .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -394,7 +398,7 @@ gt(garden_table)
   border-top-color: #D3D3D3;
 }
 
-#qwkiwpgvbe .gt_grand_summary_row {
+#ejwlmawohf .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -404,7 +408,7 @@ gt(garden_table)
   padding-right: 5px;
 }
 
-#qwkiwpgvbe .gt_first_grand_summary_row {
+#ejwlmawohf .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -414,11 +418,11 @@ gt(garden_table)
   border-top-color: #D3D3D3;
 }
 
-#qwkiwpgvbe .gt_striped {
+#ejwlmawohf .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#qwkiwpgvbe .gt_table_body {
+#ejwlmawohf .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -427,7 +431,7 @@ gt(garden_table)
   border-bottom-color: #D3D3D3;
 }
 
-#qwkiwpgvbe .gt_footnotes {
+#ejwlmawohf .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -441,13 +445,13 @@ gt(garden_table)
   border-right-color: #D3D3D3;
 }
 
-#qwkiwpgvbe .gt_footnote {
+#ejwlmawohf .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#qwkiwpgvbe .gt_sourcenotes {
+#ejwlmawohf .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -461,46 +465,46 @@ gt(garden_table)
   border-right-color: #D3D3D3;
 }
 
-#qwkiwpgvbe .gt_sourcenote {
+#ejwlmawohf .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#qwkiwpgvbe .gt_left {
+#ejwlmawohf .gt_left {
   text-align: left;
 }
 
-#qwkiwpgvbe .gt_center {
+#ejwlmawohf .gt_center {
   text-align: center;
 }
 
-#qwkiwpgvbe .gt_right {
+#ejwlmawohf .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#qwkiwpgvbe .gt_font_normal {
+#ejwlmawohf .gt_font_normal {
   font-weight: normal;
 }
 
-#qwkiwpgvbe .gt_font_bold {
+#ejwlmawohf .gt_font_bold {
   font-weight: bold;
 }
 
-#qwkiwpgvbe .gt_font_italic {
+#ejwlmawohf .gt_font_italic {
   font-style: italic;
 }
 
-#qwkiwpgvbe .gt_super {
+#ejwlmawohf .gt_super {
   font-size: 65%;
 }
 
-#qwkiwpgvbe .gt_footnote_marks {
+#ejwlmawohf .gt_footnote_marks {
   font-style: italic;
   font-size: 65%;
 }
 </style>
-<div id="qwkiwpgvbe" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;"><table class="gt_table">
+<div id="ejwlmawohf" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;"><table class="gt_table">
   
   <thead class="gt_col_headings">
     <tr>
